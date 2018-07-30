@@ -11,7 +11,7 @@
 			<key>keyword</key>
 			<string>taobao</string>
 			<key>text</key>
-			<string>淘宝</string>
+			<string>淘宝 search {query}</string>
 			<key>url</key>
 			<string>http://s.taobao.com/search?oe=utf-8&amp;f=8&amp;q={query}</string>
 			<key>utf8</key>
@@ -24,7 +24,7 @@
 			<key>keyword</key>
 			<string>baidu</string>
 			<key>text</key>
-			<string>Search Baidu Drive for '{query}'</string>
+			<string>百度一下 {query}</string>
 			<key>url</key>
 			<string>https://www.baidu.com/s?ie=utf-8&amp;f=8&amp;rsv_bp=1&amp;ch=&amp;tn=baiduerr&amp;bar=&amp;wd={query}</string>
 			<key>utf8</key>
@@ -37,7 +37,7 @@
 			<key>keyword</key>
 			<string>jianshu</string>
 			<key>text</key>
-			<string>简书</string>
+			<string>简书 search {query}</string>
 			<key>url</key>
 			<string>http://www.jianshu.com/search?utf8=%E2%9C%93&amp;q={query}</string>
 			<key>utf8</key>
@@ -50,7 +50,7 @@
 			<key>keyword</key>
 			<string>sof</string>
 			<key>text</key>
-			<string>stackoverflow</string>
+			<string>stackoverflow search {query}</string>
 			<key>url</key>
 			<string>http://www.stackoverflow.com/search?q={query}</string>
 			<key>utf8</key>
@@ -63,7 +63,7 @@
 			<key>keyword</key>
 			<string>jd</string>
 			<key>text</key>
-			<string>京东</string>
+			<string>京东 search {query}</string>
 			<key>url</key>
 			<string>https://search.jd.com/Search?keyword={query}&amp;enc=utf-8&amp;wq={query}</string>
 			<key>utf8</key>
@@ -76,7 +76,7 @@
 			<key>keyword</key>
 			<string>github</string>
 			<key>text</key>
-			<string>GitHub</string>
+			<string>GitHub search {query}</string>
 			<key>url</key>
 			<string>https://github.com/search?utf8=%E2%9C%93&amp;q={query}</string>
 			<key>utf8</key>
